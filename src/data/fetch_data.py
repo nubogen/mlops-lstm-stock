@@ -7,7 +7,6 @@ Usage:
 
 import argparse
 from pathlib import Path
-
 import yfinance as yf
 import pandas as pd
 
